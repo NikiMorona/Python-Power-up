@@ -8,7 +8,7 @@ Foi muito legal e interessante. Me deu mais vontedade aprende sobre pyhton e tal
 Estou estudando com o python impressionador e outros cursos.
 Meu interesse no futuro é ser um desenvolvedor fullstack, por hora.
 
-English ver:
+#*English ver:*
 
 # Python-Power-up  
 
